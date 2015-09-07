@@ -134,9 +134,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #7D7D7D;
+    border-color: #646465;
     color: #fff;
-    background-color: #7D7D7D;
+    background-color: #646465;
 }
 
 .btn-xl:active,
@@ -293,14 +293,14 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 45px;
-    font-weight: 600;
+    font-weight: 450;
     line-height: 50px;
     
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
+        padding-top: 130px;
         padding-bottom: 400px;
     }
 
