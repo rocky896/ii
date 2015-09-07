@@ -275,7 +275,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 20px;
     padding-bottom: 50px;
 }
 
@@ -288,12 +288,14 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
+    
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 45px;
     font-weight: 600;
     line-height: 50px;
+    top: -30px;
 }
 
 @media(min-width:768px) {
@@ -311,12 +313,14 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
+        
         margin-bottom: 50px;
         text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Segoe UI,Arial,sans-serif;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+        top: -30px;
     }
 }
 
