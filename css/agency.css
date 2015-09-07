@@ -275,8 +275,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 20px;
-    padding-bottom: 50px;
+    padding-top: 150px;
+    padding-bottom: 30px;
 }
 
 header .intro-text .intro-lead-in {
@@ -295,13 +295,13 @@ header .intro-text .intro-heading {
     font-size: 45px;
     font-weight: 600;
     line-height: 50px;
-    top: -30px;
+    
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 100px;
+        padding-bottom: 400px;
     }
 
     header .intro-text .intro-lead-in {
@@ -314,13 +314,12 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         
-        margin-bottom: 50px;
+        margin-bottom: 40px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Segoe UI,Arial,sans-serif;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
-        top: -30px;
     }
 }
 
